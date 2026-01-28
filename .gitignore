@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# Training outputs / checkpoints
+**/checkpoint-*/
+**/*.pt
+**/*.pth
+**/*.bin
+**/*.safetensors
+
+# HuggingFace cache
+.cache/
+
+# Data (optional: comment out if you want to commit datasets)
+# data/
+
+# macOS
+.DS_Store
+**/.DS_Store
+EOF
+notebooks/artifacts/flirt-distilbert/

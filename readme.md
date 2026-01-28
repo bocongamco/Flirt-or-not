@@ -17,7 +17,7 @@ suddenly i remember a message from YEARS ago and go:
 “oh.  
 that was flirting.”
 
-and then i remember what i replied with.
+and then i replied with.
 
 “haha yeah”
 
@@ -29,7 +29,7 @@ so instead of growing as a person, i made a model.
 
 ## the problem
 
-flirting is never clear.
+flirting is never clear. (~~ for me ~~ )
 
 it’s always hidden behind:
 - “btw”
@@ -44,8 +44,7 @@ and if you’re even slightly:
 
 you will miss it.
 
-humans are bad at this.  
-i am worse.
+humans (~~I'm~~) are bad at this.  
 
 ---
 
@@ -136,3 +135,13 @@ trust me.
 sometimes it wasn’t friendly.
 
 u were just slow.
+
+
+---
+
+## setup + run (so u can actually use it)
+
+### 0) clone the repo
+```bash
+git clone <YOUR_REPO_URL>
+cd Flirt-sense

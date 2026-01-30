@@ -53,7 +53,7 @@ humans (~~I'm~~) are bad at this.
 - distilbert fine-tuned for **binary classification**
   - `yes` → flirting detected
   - `no` → just talking (probably)
-- custom dataset full of:
+- synthetic dataset from chatgpt(Since i couldnt find these kind of data anywhere):
   - slang
   - mixed signals
   - texts that ruin your night once you understand them

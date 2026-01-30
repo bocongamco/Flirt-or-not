@@ -29,7 +29,7 @@ so instead of growing as a person, i made a model.
 
 ## the problem
 
-flirting is never clear. (~~ for me ~~ )
+flirting is never clear. (~~for me~~)
 
 it’s always hidden behind:
 - “btw”

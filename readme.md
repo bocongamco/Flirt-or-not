@@ -9,7 +9,7 @@ a text classification model that detects whether a message contains flirting int
 
 ## why does this even exist
 
-idk ab u guys but i’ll be laying in bed at like **3am**, doing nothing,  
+i’ll be laying in bed at like **3am**, doing nothing,  
 and my brain just decides to ruin my life.
 
 suddenly i remember a message from YEARS ago and go:

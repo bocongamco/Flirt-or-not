@@ -138,10 +138,3 @@ u were just slow.
 
 
 ---
-
-## setup + run (so u can actually use it)
-
-### 0) clone the repo
-```bash
-git clone <YOUR_REPO_URL>
-cd Flirt-sense
